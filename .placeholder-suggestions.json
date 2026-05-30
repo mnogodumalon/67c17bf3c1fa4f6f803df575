@@ -1,0 +1,15 @@
+{
+  "AusgabenuebersichtDialog.tsx": {
+    "ausgaben_kategorie": "z. B. Auto, Miete",
+    "ausgaben_betrag": "z. B. 45,99",
+    "ausgaben_beschreibung": "Was wurde ausgegeben?",
+    "neues_feld": "Quelle wählen",
+    "datum": "Wann war die Ausgabe?"
+  },
+  "EinnahmenuebersichtDialog.tsx": {
+    "einnahmen_betrag": "z. B. 2500,00",
+    "datum": "Wann war die Einnahme?",
+    "einnahmen_kategorie": "z. B. Gehalt, Bonus",
+    "einnahmen_beschreibung": "Woher kommt das Geld?"
+  }
+}

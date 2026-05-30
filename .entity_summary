@@ -1,0 +1,3 @@
+- Ausgabenübersicht (ausgabenuebersicht): ausgaben_kategorie[lookup/select], ausgaben_betrag[number], ausgaben_beschreibung[string/text], neues_feld[applookup/select], datum[date/date]
+  → neues_feld links to app_id 6830238f9d5a7794e825218f
+- Einnahmenübersicht (einnahmenuebersicht): einnahmen_betrag[number], datum[date/date], einnahmen_kategorie[lookup/select], einnahmen_beschreibung[string/text]

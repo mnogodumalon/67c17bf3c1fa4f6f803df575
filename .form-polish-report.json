@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "Ausgabenübersicht": {
+      "placeholders_set": 5,
+      "defaults_keys": ["datum", "ausgaben_kategorie"],
+      "computed_keys": [],
+      "reason": "Reine Erfassungs-Stammdaten für Budgetverwaltung. Keine berechenbaren Felder (kein Preis-Menge-Paar, kein Datumspaar mit Differenz, keine applookup-Ketten). Ausgaben werden kategorisiert und betragsmäßig erfasst — keine automatische Arithmetik nötig."
+    },
+    "Einnahmenübersicht": {
+      "placeholders_set": 4,
+      "defaults_keys": ["datum", "einnahmen_kategorie"],
+      "computed_keys": [],
+      "reason": "Reine Erfassungs-Stammdaten für Budgetverwaltung. Keine berechenbaren Felder. Einnahmen werden kategorisiert und betragsmäßig erfasst — keine Formeln notwendig."
+    }
+  }
+}

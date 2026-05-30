@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "ausgabenuebersicht",
+      "app_id": "67c17bf34fb0c01e5f48c85b",
+      "path": "/rest/apps/67c17bf34fb0c01e5f48c85b/records",
+      "allowed_fields": [
+        "ausgaben_kategorie",
+        "ausgaben_betrag",
+        "ausgaben_beschreibung",
+        "datum"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Ausgabenübersicht — Formular"
+    },
+    {
+      "entity": "einnahmenuebersicht",
+      "app_id": "67c17bea1aa71139a082efdb",
+      "path": "/rest/apps/67c17bea1aa71139a082efdb/records",
+      "allowed_fields": [
+        "einnahmen_betrag",
+        "datum",
+        "einnahmen_kategorie",
+        "einnahmen_beschreibung"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Einnahmenübersicht — Formular"
+    }
+  ]
+}
